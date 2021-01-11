@@ -6,7 +6,7 @@ Transport Modelling is a discipline that uses forecasting and prediction on impe
 
 # Structure
 
-Initial phases of this library will heavily leverage methods established in the text book - Statistical Rethinking (Second Edition) and the port of the source code to Numpyro. Essentially the repo will contain toy example implimentations of transport modelling problems solve using bayes stats in jupyter notebooks. The plan then is to progressively build up a library of helper classes/functions for methods or techniques that prove usefull.
+Initial phases of this library will heavily leverage methods established in the text book - Statistical Rethinking (Second Edition) and the port of the source code to Numpyro, and some other relevant papers. Essentially the repo will contain toy example implimentations of transport modelling problems solve using bayes stats in jupyter notebooks. The plan then is to progressively build up a library of helper classes/functions for methods or techniques that prove usefull.
 
 # Benefits of bayesian methods
 
