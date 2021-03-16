@@ -21,4 +21,4 @@ This repository is for exploring ideas. Because we will be exploring possibiliti
 
 Nonetheless, this repository is for the exploration of ideas of how the world works and how we define "good". This is a public process hence open source.
 
-![Collaboration_Confidentiality_Hierarchy_Concept](docs/Collaboration_Confidentiality_Hierarchy_Concept.png)
+![Collaboration_Confidentiality_Hierarchy_Concept](./docs/Collaboration_Confidentiality_Hierarchy_Concept.png)
