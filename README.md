@@ -15,6 +15,10 @@ Anticipated benefits of bayesian methods includes: supporting structured human r
 # Usage
 This package is open source (GPL3).
 
-The content of this package does not contain or represent the views of any organisation. 
+The content of this package does not contain endorsements or represent the views of any individual or organisation. 
 
+This repository is for exploring ideas. Because we will be exploring possibilities, it needs to be made clear that a user submitting an exploratory method for discussion or through a commit that implies a view, it cannot be interpreted as, for want of a better term, engineering approval. An endorsement or approval is a different process where you mitigate risks after your relevant exploration is complete. Those issues are best discussed with private git lab/hub repositories i.e. "Internal" in the diagram.
 
+Nonetheless, this repository is for the exploration of ideas of how the world works and how we define "good". This is a public process hence open source.
+
+![Collaboration_Confidentiality_Hierarchy_Concept](docs\Collaboration_Confidentiality_Hierarchy_Concept.png)
